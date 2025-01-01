@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - XTEC: "https://xtec.gencat.cat/ca/inici"
     - Google: "https://www.google.com/"
-  Author's home: "#"
+  Author's home: ""
 
 ################
 # --- Logo --- #
