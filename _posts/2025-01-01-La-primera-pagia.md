@@ -1,13 +1,13 @@
 ---
 layout: post
 title: En la casa de Pancete
-subtitle: There's lots to learn!
+subtitle: Estic fent proves!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [prova]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Jaume Solans
 ---
 
 {: .box-success}
