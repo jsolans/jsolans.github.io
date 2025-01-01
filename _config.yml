@@ -1,4 +1,4 @@
-mi###########################################################
+###########################################################
 ### Welcome to Beautiful Jekyll!
 ### This config file is meant for settings that affect your entire website. When you first
 ### set up your website you should go through all these settings and edit them, but after
@@ -22,9 +22,9 @@ author: JSC
 navbar-links:
   About Me: "Sobre mi"
   Resources:
-    - XTEC: "https://xtec.gencat.cat/ca/inici"
-    - Google: "https://www.google.com/"
-  Author's home: ""
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -300,4 +300,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
