@@ -20,12 +20,11 @@ author: JSC
 ###############################################
 
 navbar-links:
-  navbar-links:
-  About Me: "Sobre mi"
-  Resources:
+  Sobre mi: "Sobre mi"
+  Recursos:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Autor: "https://deanattali.com"
 
 ################
 # --- Logo --- #
