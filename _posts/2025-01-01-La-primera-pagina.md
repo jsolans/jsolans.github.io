@@ -2,6 +2,7 @@
 layout: post
 title: En la casa de Pancete
 subtitle: Estic fent proves!
+thumbnail-img: /assets/img/thumb.png
 ---
 
 {: .box-success}
