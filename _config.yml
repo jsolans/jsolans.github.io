@@ -20,11 +20,11 @@ author: JSC
 ###############################################
 
 navbar-links:
-  Sobre mi: "Sobre mi"
-  Recursos:
+  About Me: "Sobre mi"
+  Resources:
     - XTEC: "https://xtec.gencat.cat/ca/inici"
     - Google: "https://www.google.com/"
-  Author inici: "#"
+  Author's home: "#"
 
 ################
 # --- Logo --- #
