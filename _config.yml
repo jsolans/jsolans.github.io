@@ -22,9 +22,9 @@ author: JSC
 navbar-links:
   About Me: "Sobre mi"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - XTEC: "https://beautifuljekyll.com"
+    - Google: "https://www.markdowntutorial.com/"
+  Autor: "https://deanattali.com"
 
 ################
 # --- Logo --- #
