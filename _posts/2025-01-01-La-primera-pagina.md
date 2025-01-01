@@ -1,8 +1,8 @@
 ---
 layout: post
-title: En la casa de Pancete
+title: Aquesta pàgina és la primera
 subtitle: Estic fent proves!
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/thumb2.png
 ---
 
 {: .box-success}
