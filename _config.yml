@@ -20,7 +20,7 @@ author: JSC
 ###############################################
 
 navbar-links:
-  Sobre mi: "/aboutme.md"
+  Sobre mi: "aboutme.md"
   Recursos:
     - Xtec: "https://xtec.gencat.cat/ca/inici"
     - Google: "https://www.google.es/"
