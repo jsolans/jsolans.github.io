@@ -26,7 +26,7 @@ navbar-links:
     - Google: "https://www.google.es/"
     - Intodns: "https://intodns.io/es"
   Blog: 
-    - La primera: "./posts/"
+    - La primera: "2025-01-01-La-primera-pagina"
 
 ################
 # --- Logo --- #
