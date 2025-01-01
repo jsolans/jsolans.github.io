@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: Calaix
 
 # Your name to show in the footer
-author: Some Person
+author: JSC
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Sobre mi"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
